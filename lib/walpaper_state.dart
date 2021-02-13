@@ -30,7 +30,7 @@ class WalpaperState with ChangeNotifier {
     String result;
     try {
       result = await WallpaperManager.setWallpaperFromFile(path, location);
-    } on PlatformExc∏eption {
+    } on PlatformException {
       result = 'Failed to get wallpaper.';
     }
   }

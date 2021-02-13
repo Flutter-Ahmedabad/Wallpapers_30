@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - wallpaper_manager (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - wallpaper_manager (from `.symlinks/plugins/wallpaper_manager/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  wallpaper_manager:
+    :path: ".symlinks/plugins/wallpaper_manager/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  wallpaper_manager: 78720eb4e1957ace4397e1738896a7f3add5fd67
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
